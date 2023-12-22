@@ -90,6 +90,8 @@ Nous avons ici durci les règles de mot de passe avec une longueur minimum  de 1
 
 # Partie 3 : Lecteurs Réseaux : 
 
+## Q 1.3.1 : 
+
 Nous avons ici créé une GPO qui ajoute les lecteurs E: et F: sur les PC clients.
 On passe donc par le biais d'un dossier partagé et on édite un mappage de dans la partie **User Configuration**.
 
