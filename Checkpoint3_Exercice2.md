@@ -77,6 +77,14 @@ Actuellement, les règles appiquées sur NetFilter sont :
 ## Q 2.5.2 : 
 
 Les types de communications autorisées sont le SSH et le protocole ICMP (ping). 
+On le voit grâce aux lignes : 
+
+```
+tcp dport ssh accept
+ip protocol icmp accept
+ip6 nexthdr icmpv6 accept
+```
+
 
 ## Q 2.5.3 :
 
