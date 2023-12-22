@@ -113,4 +113,4 @@ Cette commande nous donne le résultat suivant :
 
 ![img](https://github.com/ThomasDominici/CheckPoint3/blob/Ressources/ImagesEXO2/q261.JPG?raw=true)
 
-Comme nous pouvons le voir, il n'y a pas eu d'échecs de connexion sur ce serveur.
+Comme nous pouvons le voir, il n'y a pas eu d'échecs de connexion sur ce serveur pour **root**. Après essai avec **wilder** et **thomas** on a aussi 0 échecs.
